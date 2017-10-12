@@ -1,0 +1,12 @@
+Action.o: Action.cc Action.hh Utils.hh Board.hh
+AICaza123.o: AICaza123.cc Player.hh Utils.hh Board.hh Action.hh \
+ Registry.hh
+AIDemo.o: AIDemo.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AINull.o: AINull.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+Board.o: Board.cc Board.hh Utils.hh Action.hh
+Game.o: Game.cc Game.hh Utils.hh Board.hh Action.hh Player.hh Registry.hh
+Main.o: Main.cc Game.hh Utils.hh Board.hh Action.hh Player.hh Registry.hh \
+ Defs.hh
+Player.o: Player.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+Registry.o: Registry.cc Registry.hh Utils.hh
+Utils.o: Utils.cc Utils.hh
