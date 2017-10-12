@@ -1,7 +1,8 @@
 # StarWar
 Game created for a project in the university (UPC) - _Code done in October 2015_
 
-### Content
+
+## Content
 
 This is a **beta version** of a game done in a EDA, a subject of **Data structures and algorithms**. 
 
