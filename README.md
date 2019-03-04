@@ -14,3 +14,7 @@ Each ship scored points by collecting coins and dodging bullets. Ships could mov
 Our goal was to create the best possible AI for a ship, and then battle the other students' AIs in a round based tournament. The code for my AI can be found in AICaza123.cc. My AI does not have the option of shooting because it's a beta version as I already say.
 
 The rest of the files are required for compiling and executing the game.
+
+## Mark
+
+I don't know but I died in 104 round
